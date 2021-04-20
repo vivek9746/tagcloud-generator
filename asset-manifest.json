@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tagcloud-generator/static/css/main.c3e9cf0c.chunk.css",
+    "main.js": "/tagcloud-generator/static/js/main.95775099.chunk.js",
+    "main.js.map": "/tagcloud-generator/static/js/main.95775099.chunk.js.map",
+    "runtime-main.js": "/tagcloud-generator/static/js/runtime-main.cae74407.js",
+    "runtime-main.js.map": "/tagcloud-generator/static/js/runtime-main.cae74407.js.map",
+    "static/js/2.c02bcf71.chunk.js": "/tagcloud-generator/static/js/2.c02bcf71.chunk.js",
+    "static/js/2.c02bcf71.chunk.js.map": "/tagcloud-generator/static/js/2.c02bcf71.chunk.js.map",
+    "static/js/3.ecd0f948.chunk.js": "/tagcloud-generator/static/js/3.ecd0f948.chunk.js",
+    "static/js/3.ecd0f948.chunk.js.map": "/tagcloud-generator/static/js/3.ecd0f948.chunk.js.map",
+    "index.html": "/tagcloud-generator/index.html",
+    "static/css/main.c3e9cf0c.chunk.css.map": "/tagcloud-generator/static/css/main.c3e9cf0c.chunk.css.map",
+    "static/js/2.c02bcf71.chunk.js.LICENSE.txt": "/tagcloud-generator/static/js/2.c02bcf71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cae74407.js",
+    "static/js/2.c02bcf71.chunk.js",
+    "static/css/main.c3e9cf0c.chunk.css",
+    "static/js/main.95775099.chunk.js"
+  ]
+}
